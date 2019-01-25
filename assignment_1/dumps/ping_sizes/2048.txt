@@ -1,0 +1,22 @@
+PING cricbuzz.com (161.202.24.162) 2048(2076) bytes of data.
+2056 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=1 ttl=56 time=291 ms
+2056 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=2 ttl=56 time=234 ms
+2056 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=3 ttl=56 time=217 ms
+2056 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=4 ttl=56 time=246 ms
+2056 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=5 ttl=56 time=272 ms
+2056 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=6 ttl=56 time=210 ms
+2056 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=7 ttl=56 time=205 ms
+2056 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=8 ttl=56 time=225 ms
+2056 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=9 ttl=56 time=241 ms
+2056 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=12 ttl=56 time=431 ms
+2056 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=13 ttl=56 time=220 ms
+2056 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=14 ttl=56 time=228 ms
+2056 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=15 ttl=56 time=342 ms
+2056 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=17 ttl=56 time=225 ms
+2056 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=18 ttl=56 time=321 ms
+2056 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=19 ttl=56 time=224 ms
+2056 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=20 ttl=56 time=259 ms
+
+--- cricbuzz.com ping statistics ---
+20 packets transmitted, 17 received, 15% packet loss, time 19077ms
+rtt min/avg/max/mdev = 205.364/258.722/431.817/57.302 ms

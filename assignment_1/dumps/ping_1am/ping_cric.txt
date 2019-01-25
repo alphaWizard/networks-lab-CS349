@@ -1,0 +1,24 @@
+PING cricbuzz.com (161.202.24.162) 56(84) bytes of data.
+64 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=1 ttl=56 time=205 ms
+64 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=2 ttl=56 time=165 ms
+64 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=3 ttl=56 time=177 ms
+64 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=4 ttl=56 time=270 ms
+64 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=5 ttl=56 time=293 ms
+64 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=6 ttl=56 time=314 ms
+64 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=7 ttl=56 time=337 ms
+64 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=8 ttl=56 time=168 ms
+64 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=9 ttl=56 time=155 ms
+64 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=10 ttl=56 time=188 ms
+64 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=11 ttl=56 time=160 ms
+64 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=13 ttl=56 time=318 ms
+64 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=14 ttl=56 time=177 ms
+64 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=15 ttl=56 time=226 ms
+64 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=16 ttl=56 time=190 ms
+64 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=17 ttl=56 time=177 ms
+64 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=18 ttl=56 time=178 ms
+64 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=19 ttl=56 time=151 ms
+64 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=20 ttl=56 time=171 ms
+
+--- cricbuzz.com ping statistics ---
+20 packets transmitted, 19 received, 5% packet loss, time 19055ms
+rtt min/avg/max/mdev = 151.616/212.022/337.573/60.231 ms

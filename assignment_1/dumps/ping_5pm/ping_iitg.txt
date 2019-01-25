@@ -1,0 +1,23 @@
+PING iitg.ac.in (14.139.196.22) 56(84) bytes of data.
+64 bytes from gate.iitg.ac.in (14.139.196.22): icmp_seq=1 ttl=52 time=297 ms
+64 bytes from gate.iitg.ac.in (14.139.196.22): icmp_seq=2 ttl=52 time=432 ms
+64 bytes from gate.iitg.ac.in (14.139.196.22): icmp_seq=3 ttl=52 time=235 ms
+64 bytes from gate.iitg.ac.in (14.139.196.22): icmp_seq=4 ttl=52 time=254 ms
+64 bytes from gate.iitg.ac.in (14.139.196.22): icmp_seq=5 ttl=52 time=243 ms
+64 bytes from gate.iitg.ac.in (14.139.196.22): icmp_seq=6 ttl=52 time=231 ms
+64 bytes from gate.iitg.ac.in (14.139.196.22): icmp_seq=7 ttl=52 time=238 ms
+64 bytes from gate.iitg.ac.in (14.139.196.22): icmp_seq=8 ttl=52 time=521 ms
+64 bytes from gate.iitg.ac.in (14.139.196.22): icmp_seq=9 ttl=52 time=447 ms
+64 bytes from gate.iitg.ac.in (14.139.196.22): icmp_seq=10 ttl=52 time=432 ms
+64 bytes from gate.iitg.ac.in (14.139.196.22): icmp_seq=11 ttl=52 time=358 ms
+64 bytes from gate.iitg.ac.in (14.139.196.22): icmp_seq=12 ttl=52 time=451 ms
+64 bytes from gate.iitg.ac.in (14.139.196.22): icmp_seq=13 ttl=52 time=242 ms
+64 bytes from gate.iitg.ac.in (14.139.196.22): icmp_seq=15 ttl=52 time=313 ms
+64 bytes from gate.iitg.ac.in (14.139.196.22): icmp_seq=16 ttl=52 time=495 ms
+64 bytes from gate.iitg.ac.in (14.139.196.22): icmp_seq=17 ttl=52 time=463 ms
+64 bytes from gate.iitg.ac.in (14.139.196.22): icmp_seq=18 ttl=52 time=420 ms
+64 bytes from gate.iitg.ac.in (14.139.196.22): icmp_seq=19 ttl=52 time=379 ms
+
+--- iitg.ac.in ping statistics ---
+20 packets transmitted, 18 received, 10% packet loss, time 19021ms
+rtt min/avg/max/mdev = 231.872/358.816/521.478/99.129 ms

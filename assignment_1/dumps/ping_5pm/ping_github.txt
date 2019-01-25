@@ -1,0 +1,25 @@
+PING github.com (192.30.253.113) 56(84) bytes of data.
+64 bytes from lb-192-30-253-113-iad.github.com (192.30.253.113): icmp_seq=1 ttl=49 time=340 ms
+64 bytes from lb-192-30-253-113-iad.github.com (192.30.253.113): icmp_seq=2 ttl=49 time=327 ms
+64 bytes from lb-192-30-253-113-iad.github.com (192.30.253.113): icmp_seq=3 ttl=49 time=341 ms
+64 bytes from lb-192-30-253-113-iad.github.com (192.30.253.113): icmp_seq=4 ttl=49 time=326 ms
+64 bytes from lb-192-30-253-113-iad.github.com (192.30.253.113): icmp_seq=5 ttl=49 time=369 ms
+64 bytes from lb-192-30-253-113-iad.github.com (192.30.253.113): icmp_seq=6 ttl=49 time=388 ms
+64 bytes from lb-192-30-253-113-iad.github.com (192.30.253.113): icmp_seq=7 ttl=49 time=370 ms
+64 bytes from lb-192-30-253-113-iad.github.com (192.30.253.113): icmp_seq=8 ttl=49 time=320 ms
+64 bytes from lb-192-30-253-113-iad.github.com (192.30.253.113): icmp_seq=9 ttl=49 time=320 ms
+64 bytes from lb-192-30-253-113-iad.github.com (192.30.253.113): icmp_seq=10 ttl=49 time=325 ms
+64 bytes from lb-192-30-253-113-iad.github.com (192.30.253.113): icmp_seq=11 ttl=49 time=374 ms
+64 bytes from lb-192-30-253-113-iad.github.com (192.30.253.113): icmp_seq=12 ttl=49 time=354 ms
+64 bytes from lb-192-30-253-113-iad.github.com (192.30.253.113): icmp_seq=13 ttl=49 time=443 ms
+64 bytes from lb-192-30-253-113-iad.github.com (192.30.253.113): icmp_seq=14 ttl=49 time=426 ms
+64 bytes from lb-192-30-253-113-iad.github.com (192.30.253.113): icmp_seq=15 ttl=49 time=553 ms
+64 bytes from lb-192-30-253-113-iad.github.com (192.30.253.113): icmp_seq=16 ttl=49 time=337 ms
+64 bytes from lb-192-30-253-113-iad.github.com (192.30.253.113): icmp_seq=17 ttl=49 time=603 ms
+64 bytes from lb-192-30-253-113-iad.github.com (192.30.253.113): icmp_seq=18 ttl=49 time=622 ms
+64 bytes from lb-192-30-253-113-iad.github.com (192.30.253.113): icmp_seq=19 ttl=49 time=646 ms
+64 bytes from lb-192-30-253-113-iad.github.com (192.30.253.113): icmp_seq=20 ttl=49 time=435 ms
+
+--- github.com ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19001ms
+rtt min/avg/max/mdev = 320.236/411.305/646.033/104.990 ms

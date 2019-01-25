@@ -1,0 +1,5 @@
+PING netflix.com (34.246.63.0) 56(84) bytes of data.
+
+--- netflix.com ping statistics ---
+20 packets transmitted, 0 received, 100% packet loss, time 19423ms
+

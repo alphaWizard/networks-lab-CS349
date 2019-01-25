@@ -1,0 +1,24 @@
+PING cricbuzz.com (119.81.119.5) 56(84) bytes of data.
+64 bytes from 5.77.5177.ip4.static.sl-reverse.com (119.81.119.5): icmp_seq=1 ttl=56 time=317 ms
+64 bytes from 5.77.5177.ip4.static.sl-reverse.com (119.81.119.5): icmp_seq=2 ttl=56 time=186 ms
+64 bytes from 5.77.5177.ip4.static.sl-reverse.com (119.81.119.5): icmp_seq=3 ttl=56 time=233 ms
+64 bytes from 5.77.5177.ip4.static.sl-reverse.com (119.81.119.5): icmp_seq=4 ttl=56 time=189 ms
+64 bytes from 5.77.5177.ip4.static.sl-reverse.com (119.81.119.5): icmp_seq=5 ttl=56 time=234 ms
+64 bytes from 5.77.5177.ip4.static.sl-reverse.com (119.81.119.5): icmp_seq=6 ttl=56 time=219 ms
+64 bytes from 5.77.5177.ip4.static.sl-reverse.com (119.81.119.5): icmp_seq=7 ttl=56 time=227 ms
+64 bytes from 5.77.5177.ip4.static.sl-reverse.com (119.81.119.5): icmp_seq=8 ttl=56 time=188 ms
+64 bytes from 5.77.5177.ip4.static.sl-reverse.com (119.81.119.5): icmp_seq=9 ttl=56 time=296 ms
+64 bytes from 5.77.5177.ip4.static.sl-reverse.com (119.81.119.5): icmp_seq=10 ttl=56 time=323 ms
+64 bytes from 5.77.5177.ip4.static.sl-reverse.com (119.81.119.5): icmp_seq=11 ttl=56 time=342 ms
+64 bytes from 5.77.5177.ip4.static.sl-reverse.com (119.81.119.5): icmp_seq=12 ttl=56 time=367 ms
+64 bytes from 5.77.5177.ip4.static.sl-reverse.com (119.81.119.5): icmp_seq=13 ttl=56 time=392 ms
+64 bytes from 5.77.5177.ip4.static.sl-reverse.com (119.81.119.5): icmp_seq=14 ttl=56 time=211 ms
+64 bytes from 5.77.5177.ip4.static.sl-reverse.com (119.81.119.5): icmp_seq=16 ttl=56 time=257 ms
+64 bytes from 5.77.5177.ip4.static.sl-reverse.com (119.81.119.5): icmp_seq=17 ttl=56 time=281 ms
+64 bytes from 5.77.5177.ip4.static.sl-reverse.com (119.81.119.5): icmp_seq=18 ttl=56 time=302 ms
+64 bytes from 5.77.5177.ip4.static.sl-reverse.com (119.81.119.5): icmp_seq=19 ttl=56 time=533 ms
+64 bytes from 5.77.5177.ip4.static.sl-reverse.com (119.81.119.5): icmp_seq=20 ttl=56 time=338 ms
+
+--- cricbuzz.com ping statistics ---
+20 packets transmitted, 19 received, 5% packet loss, time 19012ms
+rtt min/avg/max/mdev = 186.542/286.571/533.708/84.771 ms

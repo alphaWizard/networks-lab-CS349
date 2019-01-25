@@ -1,0 +1,25 @@
+PING cricbuzz.com (119.81.119.5) 128(156) bytes of data.
+136 bytes from 5.77.5177.ip4.static.sl-reverse.com (119.81.119.5): icmp_seq=1 ttl=56 time=167 ms
+136 bytes from 5.77.5177.ip4.static.sl-reverse.com (119.81.119.5): icmp_seq=2 ttl=56 time=187 ms
+136 bytes from 5.77.5177.ip4.static.sl-reverse.com (119.81.119.5): icmp_seq=3 ttl=56 time=185 ms
+136 bytes from 5.77.5177.ip4.static.sl-reverse.com (119.81.119.5): icmp_seq=4 ttl=56 time=268 ms
+136 bytes from 5.77.5177.ip4.static.sl-reverse.com (119.81.119.5): icmp_seq=5 ttl=56 time=292 ms
+136 bytes from 5.77.5177.ip4.static.sl-reverse.com (119.81.119.5): icmp_seq=6 ttl=56 time=315 ms
+136 bytes from 5.77.5177.ip4.static.sl-reverse.com (119.81.119.5): icmp_seq=7 ttl=56 time=341 ms
+136 bytes from 5.77.5177.ip4.static.sl-reverse.com (119.81.119.5): icmp_seq=8 ttl=56 time=189 ms
+136 bytes from 5.77.5177.ip4.static.sl-reverse.com (119.81.119.5): icmp_seq=9 ttl=56 time=163 ms
+136 bytes from 5.77.5177.ip4.static.sl-reverse.com (119.81.119.5): icmp_seq=10 ttl=56 time=185 ms
+136 bytes from 5.77.5177.ip4.static.sl-reverse.com (119.81.119.5): icmp_seq=11 ttl=56 time=151 ms
+136 bytes from 5.77.5177.ip4.static.sl-reverse.com (119.81.119.5): icmp_seq=12 ttl=56 time=254 ms
+136 bytes from 5.77.5177.ip4.static.sl-reverse.com (119.81.119.5): icmp_seq=13 ttl=56 time=277 ms
+136 bytes from 5.77.5177.ip4.static.sl-reverse.com (119.81.119.5): icmp_seq=14 ttl=56 time=302 ms
+136 bytes from 5.77.5177.ip4.static.sl-reverse.com (119.81.119.5): icmp_seq=15 ttl=56 time=325 ms
+136 bytes from 5.77.5177.ip4.static.sl-reverse.com (119.81.119.5): icmp_seq=16 ttl=56 time=349 ms
+136 bytes from 5.77.5177.ip4.static.sl-reverse.com (119.81.119.5): icmp_seq=17 ttl=56 time=146 ms
+136 bytes from 5.77.5177.ip4.static.sl-reverse.com (119.81.119.5): icmp_seq=18 ttl=56 time=221 ms
+136 bytes from 5.77.5177.ip4.static.sl-reverse.com (119.81.119.5): icmp_seq=19 ttl=56 time=163 ms
+136 bytes from 5.77.5177.ip4.static.sl-reverse.com (119.81.119.5): icmp_seq=20 ttl=56 time=239 ms
+
+--- cricbuzz.com ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19006ms
+rtt min/avg/max/mdev = 146.541/236.553/349.816/66.807 ms

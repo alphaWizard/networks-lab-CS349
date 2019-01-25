@@ -1,0 +1,25 @@
+PING cricbuzz.com (161.202.24.162) 256(284) bytes of data.
+264 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=1 ttl=56 time=170 ms
+264 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=2 ttl=56 time=159 ms
+264 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=3 ttl=56 time=215 ms
+264 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=4 ttl=56 time=158 ms
+264 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=5 ttl=56 time=159 ms
+264 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=6 ttl=56 time=206 ms
+264 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=7 ttl=56 time=331 ms
+264 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=8 ttl=56 time=251 ms
+264 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=9 ttl=56 time=173 ms
+264 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=10 ttl=56 time=184 ms
+264 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=11 ttl=56 time=183 ms
+264 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=12 ttl=56 time=163 ms
+264 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=13 ttl=56 time=210 ms
+264 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=14 ttl=56 time=184 ms
+264 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=15 ttl=56 time=307 ms
+264 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=16 ttl=56 time=330 ms
+264 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=17 ttl=56 time=353 ms
+264 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=18 ttl=56 time=273 ms
+264 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=19 ttl=56 time=398 ms
+264 bytes from a2.18.caa1.ip4.static.sl-reverse.com (161.202.24.162): icmp_seq=20 ttl=56 time=217 ms
+
+--- cricbuzz.com ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19026ms
+rtt min/avg/max/mdev = 158.817/231.620/398.629/72.763 ms
